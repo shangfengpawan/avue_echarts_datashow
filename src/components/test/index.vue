@@ -2,7 +2,7 @@
 <div>
           <div style="display:flex;margin-bottom:8px;">
             <div :style="{boxSizing:'border-box',flex:'1',fontSize:'1rem',color:'#fff',paddingRight:'8px'}">
-                
+
                 <div style="border:1px solid #fff;border-radius:20px;padding:10px 10px;overflow:hidden;">
 
                       <div style="float:left;width:30%;">
@@ -28,7 +28,7 @@
 
             </div>
             <div :style="{boxSizing:'border-box',flex:'1',fontSize:'1rem',color:'#fff',paddingRight:'8px'}">
-              
+
 
                 <div style="border:1px solid #fff;border-radius:20px;padding:10px 10px;overflow:hidden;">
 
@@ -91,10 +91,10 @@
 
             </div>
             <div :style="{boxSizing:'border-box',flex:'1',fontSize:'1rem',color:'#fff',paddingRight:'8px'}">
-              
-              
+
+
                 <div style="border:1px solid #fff;border-radius:20px;padding:10px 10px;overflow:hidden;">
-              
+
               <div style="float:left;width:30%;">
                 <div style="width:100%;height:100%;">
                   <svg viewBox="-36 0 512 512" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%; vertical-align: middle; fill: currentcolor; overflow: hidden; font-size: 200px;"><path d="m120.46875 376.46875c0-8.300781 6.757812-15.058594 15.0625-15.058594h268.34375l36.140625-180.703125h-307.199219l-18.070312-90.355469h-114.746094v30.117188h90.054688l42.1875 210.945312c-23.382813 1.6875-41.890626 21.25-41.890626 45.054688 0 24.914062 20.265626 45.179688 45.179688 45.179688h286.117188v-30.117188h-286.117188c-8.304688 0-15.0625-6.757812-15.0625-15.0625zm42.464844-45.175781-9.035156-45.175781h56.925781v45.175781zm138.242187-45.175781v45.175781h-60.234375v-45.175781zm-60.234375-30.117188v-45.175781h60.234375v45.175781zm90.351563 75.292969v-45.175781h56.925781l-9.035156 45.175781zm62.949219-75.292969h-62.949219v-45.175781h71.984375zm-183.417969-45.175781v45.175781h-62.949219l-9.035156-45.175781zm0 0" fill="#1296db"></path><path d="m120.46875 466.824219c0 24.910156 20.269531 45.175781 45.179688 45.175781 24.910156 0 45.175781-20.265625 45.175781-45.175781 0-24.910157-20.265625-45.175781-45.175781-45.175781-24.910157 0-45.179688 20.265624-45.179688 45.175781zm45.179688-15.058594c8.300781 0 15.058593 6.753906 15.058593 15.058594 0 8.304687-6.757812 15.058593-15.058593 15.058593-8.304688 0-15.058594-6.753906-15.058594-15.058593 0-8.304688 6.753906-15.058594 15.058594-15.058594zm0 0" fill="#1296db"></path><path d="m301.175781 466.824219c0 24.910156 20.265625 45.175781 45.175781 45.175781 24.910157 0 45.179688-20.265625 45.179688-45.175781 0-24.910157-20.269531-45.175781-45.179688-45.175781-24.910156 0-45.175781 20.265624-45.175781 45.175781zm45.175781-15.058594c8.304688 0 15.058594 6.753906 15.058594 15.058594 0 8.304687-6.753906 15.058593-15.058594 15.058593-8.300781 0-15.058593-6.753906-15.058593-15.058593 0-8.304688 6.757812-15.058594 15.058593-15.058594zm0 0" fill="#1296db"></path><path d="m271.058594 30.117188c40.242187 0 78.175781 17.792968 104.074218 48.816406l23.121094-19.296875c-31.640625-37.902344-78-59.636719-127.195312-59.636719-49.195313 0-95.558594 21.734375-127.195313 59.636719l23.121094 19.300781c25.898437-31.027344 63.832031-48.820312 104.074219-48.820312zm0 0" fill="#1296db"></path><path d="m328.878906 117.480469 23.121094-19.300781c-20.125-24.113282-49.628906-37.945313-80.941406-37.945313s-60.816406 13.832031-80.941406 37.945313l23.121093 19.300781c14.386719-17.242188 35.464844-27.128907 57.820313-27.128907 22.359375 0 43.433594 9.886719 57.820312 27.128907zm0 0" fill="#1296db"></path><path d="m236.355469 136.71875 23.128906 19.292969c2.875-3.445313 7.09375-5.421875 11.574219-5.421875 4.480468 0 8.699218 1.976562 11.574218 5.421875l23.125-19.292969c-8.613281-10.324219-21.261718-16.25-34.699218-16.25s-26.085938 5.925781-34.703125 16.25zm0 0" fill="#1296db"></path></svg>
@@ -110,7 +110,7 @@
             </div>
 
             </div>
-            
+
             <div :style="{flex:'2',fontSize:'1rem',color:'#fff',padding:'10px 10px',overflow:'hidden',textAlign:'center'}">
               <div style="width:10%;margin:0 auto;">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.271 15.656" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 16.271 15.656" style="width: 100%; height: 100%; vertical-align: middle; fill: currentcolor; overflow: hidden; font-size: 200px;">
@@ -363,7 +363,7 @@
 
           <div style="display:flex;margin-bottom:8px;">
             <div style="flex:1;color:#fff;border:1px solid #fff;border-radius:20px;">
-              
+
               <div style="width:100%;height:100%;box-sizing:border-box;padding:10px 10px;">
                 <div id="circleCharts5" style="width:100%;min-height:200px"></div>
               </div>
@@ -389,7 +389,7 @@
               </div>
             </div>
           </div>
-          
+
           <div style="display:flex;margin-bottom:8px;">
             <div style="flex:2;color:#fff;">
 
@@ -411,7 +411,7 @@
             </div>
             <div style="flex:1;color:#fff;">
 
-                
+
                 <div style="width:100%;border:1px solid #fff;border-radius:20px;">
 
                   <div id="blockCharts1" style="width:100%;height:225px;box-sizing:border-box;padding:10px 10px;"></div>
@@ -422,7 +422,7 @@
             </div>
           </div>
 
-          
+
           <div style="display:flex;">
             <div style="flex:1;color:#fff;">
 
@@ -465,8 +465,8 @@
 let echarts = require('echarts/lib/echarts')
 import svgs from '@/components/test/img/greek.png'
 import china from 'echarts/map/js/china'
-import hubei from 'echarts/map/js/province/hubei'
-import yichang from 'echarts/map/json/yichang.json'
+// import hubei from 'echarts/map/js/province/hubei'
+// import yichang from 'echarts/map/json/yichang.json'
 // require('echarts/lib/chart/bar')
 // 引入提示框和title组件
 // require('echarts/lib/component/tooltip')
@@ -478,7 +478,7 @@ export default {
     component: Object
   },
   inject: ["main"],
-  
+
   mounted(){
     let this_ = this;
     setTimeout(()=>{
@@ -494,7 +494,7 @@ export default {
       this_.drawLine2('circleCharts5',{
         title:'停车费2'
       });
-      
+
       this_.drawLine4('lineCharts1');
       this_.drawLine4('lineCharts2');
 
@@ -502,7 +502,7 @@ export default {
       this_.drawLine4('lineCharts4');
       this_.drawLine4('lineCharts5');
 
-      
+
       this_.drawLine3('blockCharts1');
       this_.drawLine6('blockCharts2');
       this_.drawLine3('blockCharts3');
@@ -643,13 +643,13 @@ export default {
       //       {name: '香港', value: randomValue()},
       //       {name: '澳门', value: randomValue()}
       //   ]
-      echarts.registerMap('yi_chang', yichang);
+      echarts.registerMap('china', china);
         let myChart = echarts.init(document.getElementById(id));
         function randomValue() {
             return Math.round(Math.random()*1000);
         }
         let option = {
-          
+
         title: {
           text: '宜昌市数据',
           subtext: '实时数据',
@@ -732,9 +732,9 @@ export default {
     drawLine4(id){
       let myChart = echarts.init(document.getElementById(id));
        let option = {
- 
+
         // backgroundColor: '#FFF0F5',
- 
+
         title: {
           text: '折线图',
           subtext: '模拟数据',
@@ -743,7 +743,7 @@ export default {
             color:'#fff'
           }
         },
- 
+
         legend: {
           // orient 设置布局方式，默认水平布局，可选值：'horizontal'（水平） ¦ 'vertical'（垂直）
           orient: 'horizontal',
@@ -754,28 +754,28 @@ export default {
           // data: ['预期','实际','假设']
           data: ['预期']
         },
- 
+
         //  图表距边框的距离,可选值：'百分比'¦ {number}（单位px）
         grid: {
             top: '16%',   // 等价于 y: '16%'
-            left: '3%', 
+            left: '3%',
             right: '8%',
             bottom: '3%',
             containLabel: true
         },
- 
+
         // 提示框
         tooltip: {
           trigger: 'axis'
         },
- 
+
         //工具框，可以选择
         toolbox: {
             feature: {
                 saveAsImage: {} //下载工具
             }
         },
- 
+
         xAxis: {
           name: '周几',
           type: 'category',
@@ -794,7 +794,7 @@ export default {
           boundaryGap: false,
           data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
         },
- 
+
         yAxis: {
           name: '数值',
           type: 'value',
@@ -808,7 +808,7 @@ export default {
             }
           },
         },
- 
+
         series: [
           {
             name: '预期',
@@ -820,7 +820,7 @@ export default {
             // 设置折线弧度，取值：0-1之间
             smooth: 0.5,
           },
- 
+
           // {
           //   name: '实际',
           //   data: [620, 732, 941, 834, 1690, 1030, 920],
@@ -834,14 +834,14 @@ export default {
           //       show: true
           //       },
           //       borderColor:'red',  // 拐点边框颜色
-          //       lineStyle:{                 
+          //       lineStyle:{
           //         width:5,  // 设置线宽
           //         type:'dotted'  //'dotted'虚线 'solid'实线
           //       }
           //     }
           //   }
           // },
- 
+
           // {
           //   name: '假设',
           //   data: [120, 232, 541, 134, 290, 130, 120],
@@ -849,7 +849,7 @@ export default {
           //   // 设置折线上圆点大小
           //   symbolSize:10,
           //   // 设置拐点为实心圆
-          //   symbol:'circle',            
+          //   symbol:'circle',
           //   itemStyle: {
           //     normal: {
           //       // 拐点上显示数值
@@ -864,7 +864,7 @@ export default {
           //   }
           // }
         ],
-        
+
         color: ['#00EE00', '#FF9F7F','#FFD700']
       };
             myChart.setOption(option);
@@ -1000,7 +1000,7 @@ title : {
         myChart.clear();
 
         myChart.setOption({
-            title: { 
+            title: {
               text: '在Vue中使用echarts' ,
               textStyle:{
 
@@ -1022,7 +1022,7 @@ title : {
         window.addEventListener('resize', function () {
               myChart.resize()
         });
-        
+
     }
   },
   computed: {
