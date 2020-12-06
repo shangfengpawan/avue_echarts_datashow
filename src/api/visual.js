@@ -24,7 +24,7 @@ export const getCategory = (params) => request({
 });
 
 export const getObj = (id) => request({
-  url: url + '/avue/api/visual/detail',
+  url: url + '/visual/detail',
   method: 'get',
   params: {
     id
